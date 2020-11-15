@@ -1,0 +1,33 @@
+/*  hero*/
+.hero-title {
+  color: var(--primary-white-color);
+  background-color: var(--primary-bg-color);
+}
+/*  section*/
+.section-title {
+  color: var(--title-text-color);
+}
+
+/*features */
+.features-title {
+  color: var(--title-text-color);
+}
+
+/*  work*/
+.work-title {
+  color: var(--title-text-color);
+}
+
+/*  team*/
+.team-title {
+  color: var(--title-text-color);
+}
+
+/*  button*/
+.button {
+  background-color: var(--accent-color);
+  color: var(--primary-white-color);
+
+  font-size: 16px;
+  line-height: 1.87;
+}

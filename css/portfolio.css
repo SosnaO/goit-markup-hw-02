@@ -1,0 +1,15 @@
+/*  button*/
+.button-nav .link:hover,
+.button-nav .link:focus {
+  color: var(--primary-white-color);
+  background-color: var(--accent-color);
+}
+.button-nav .link {
+  color: var(--title-text-color);
+  background-color: #f5f4fa;
+}
+
+/*portfolio*/
+.portfolio-title {
+  color: var(--title-text-color);
+}
