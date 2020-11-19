@@ -54,9 +54,9 @@ span {
 
 .site-nav .link {
   color: var(--title-text-color);
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 1.9;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -69,8 +69,7 @@ span {
   color: var(--accent-color);
 }
 .aut-nav .link {
-  color: var(--title-text-color);
-  font-weight: bold;
+  color: var(--primary-text-color);
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -89,7 +88,7 @@ span {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   /* or 171% */
 }
 .adress .logo {
@@ -109,4 +108,11 @@ span {
 .adress .link:hover,
 .adress .link:focus {
   color: var(--accent-color);
+}
+
+.adress-link {
+  color: var(--primary-white-color);
+  font-size: 14px;
+  line-height: 1.71;
+  text-decoration: none;
 }

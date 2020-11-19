@@ -12,6 +12,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
+  letter-spacing: 0.03em;
 }
 
 /*portfolio*/
@@ -20,6 +21,7 @@
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 .portfolio-list {
   font-weight: normal;
